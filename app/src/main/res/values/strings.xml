@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RattlerServices</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">qi7sxAibXwf23puwI03fiDNrGnWVjnabHCsbUYxU</string>
+    <string name="back4app_client_key">PljZQptIXh3fE0eTSDKQ8DPPIzRgogwJ4E4582ne</string>
+</resources>
